@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "Homework Two Problem 4"
+author: "Franklyn"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
